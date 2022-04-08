@@ -4,3 +4,4 @@
 ## 第3章 BERT
 ## 第4章 Huggingface Transformers
 ## 第5章 文章の穴埋め
+## 第6章 文章分類
